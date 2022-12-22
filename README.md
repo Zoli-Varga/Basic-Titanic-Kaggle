@@ -1,4 +1,4 @@
-# Simple solution of the Titanic dataset from Kaggle
+# Basic solution of the Titanic dataset from Kaggle
 ### Accuracy: ~77%
 
 The problem: https://www.kaggle.com/c/titanic
