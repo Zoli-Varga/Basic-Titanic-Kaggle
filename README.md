@@ -1,1 +1,1 @@
-# Basic-Titanic-Kaggle
+# Simple solution of the Titanic dataset from Kaggle
